@@ -1,4 +1,6 @@
-![logo](https://github.com/ilham3169/MinesweeperSolver/blob/main/ms.png)
+<p align="center">
+  <img src="https://github.com/ilham3169/MinesweeperSolver/blob/main/ms.png" alt="logo">
+</p>
 
 # MinesweeperSolver
 
