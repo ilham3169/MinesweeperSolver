@@ -1,5 +1,5 @@
 <p align="center">
-  https://github.com/JohnnyDeuss/minesweeper-solver/blob/master/examples/example.gif
+  <img src="  https://github.com/JohnnyDeuss/minesweeper-solver/blob/master/examples/example.gif" alt="logo">
 </p>
 
 # MinesweeperSolver
