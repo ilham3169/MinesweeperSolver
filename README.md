@@ -23,3 +23,17 @@ Grid Analysis: The program identifies the cells that are unopened, flagged, or c
 Mine Flagging: Based on surrounding numbers, it flags cells that are suspected to be mines.
 Safe Clicking: Safely clicks cells when it is certain they are not mines.
 Recursive Strategy: Continues the process until the puzzle is solved or no more safe moves can be made.
+
+**Installation:**
+
+Clone the repository:
+
+    git clone https://github.com/your-username/minesweeper-solver.git
+
+Install dependencies:
+
+    pip install -r requirements.txt
+
+Run the solver:
+
+    python solver.py
