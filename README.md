@@ -1,4 +1,3 @@
-# BHOS-Demo![logo](https://github.com/ilham3169/MinesweeperSolver/blob/main/ms.png)
 # MinesweeperSolver
 
 This project is an automated Minesweeper solver developed using Selenium WebDriver and Python. The solver interacts with a web-based Minesweeper game by identifying cell types, marking mines, and clicking on safe cells based on the rules of the game. It leverages an efficient algorithm to track adjacent cell counts and determine which cells are safe to click and which are potential mines.
@@ -38,3 +37,7 @@ Install dependencies:
 Run the solver:
 
     python main.py
+
+# BHOS-Demo![logo](https://github.com/ilham3169/MinesweeperSolver/blob/main/ms.png)
+
+
