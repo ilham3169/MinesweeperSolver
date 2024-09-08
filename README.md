@@ -28,7 +28,7 @@ Recursive Strategy: Continues the process until the puzzle is solved or no more 
 
 Clone the repository:
 
-    git clone https://github.com/your-username/minesweeper-solver.git
+    git clone https://github.com/ilham3169/MinesweeperSolver.git
 
 Install dependencies:
 
@@ -36,4 +36,4 @@ Install dependencies:
 
 Run the solver:
 
-    python solver.py
+    python main.py
