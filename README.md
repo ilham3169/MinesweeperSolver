@@ -6,7 +6,7 @@
 
 This project is an automated Minesweeper solver developed using Selenium WebDriver and Python. The solver interacts with a web-based Minesweeper game by identifying cell types, marking mines, and clicking on safe cells based on the rules of the game. It leverages an efficient algorithm to track adjacent cell counts and determine which cells are safe to click and which are potential mines.
 
-Features:
+## Features:
 
 - **Web Automation:** Uses Selenium WebDriver to interact with the Minesweeper game, automatically clicking cells and marking mines.
 - **Flagging Mines:** Identifies and flags potential mines based on neighboring cell numbers.
@@ -44,7 +44,7 @@ Run the solver:
 
 ## Acknowledgements
 
-This project was made possible with the help of **kematian05**, who assisted during development.
+This project was made possible with the help of **[kematian05](https://github.com/kematian05)**, who assisted during development.
 
 ## My Minesweeper Profile
 
